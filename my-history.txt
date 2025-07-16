@@ -1,0 +1,99 @@
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ history
+    1  git version
+    2  npm -v
+    3  npm v
+    4  npm v
+    5  npm -v
+    6  npm v
+    7  code .
+    8  code .
+    9  mkdir hello world
+   10  cd hello world
+   11  cd .
+   12  git clone https://github.com/RonaldSenokoane/Hello-World.git~
+   13  git clone https://github.com/RonaldSenokoane/Hello-World.git
+   14  ls
+   15  cd Hello-World
+   16  ls
+   17  ls
+   18  mkdir practice
+   19  cd practice
+   20  echo $null > "practice.txt"
+   21  echo $practice > "practice.txt"
+   22  echo $window > "practice.txt"
+   23  echo window > "practice.txt"
+   24  echo my name is Ronald > "practice.txt"
+   25  echo "Ronald" > "practice.txt"
+   26  https://github.com/RonaldSenokoane/task-1-prac.git
+   27  clone https://github.com/RonaldSenokoane/task-1-prac.git
+   28  echo
+   29  git pull origin main
+   30  cd ..
+   31  ```bash
+   32  ```
+   33  mkdir Shell architecture
+   34  cd architecture
+   35  ls
+   36  echo "The shell is my translator to the OS"
+   37  code .
+   38  mkdir reflection.txt
+   39  ls
+   40  cd reflection.txt
+   41  echo recfletion > "reflection.txt"
+   42  pwd
+   43  ls
+   44  cd
+   45  cd ..
+   46  mkdir nano shell_intro.sh
+   47  cd architecture
+   48  ls
+   49  cd architecture
+   50  cd reflection.txt
+   51  cd reflection.txt
+   52  cd ..
+   53  ls
+   54  cd task-1-prac
+   55  cd task-1-prac
+   56  ls
+   57  pwd
+   58  ls
+   59  cd ..
+   60  nano shell_intro.sh
+   61  #!/bin/bash
+   62  #my first shell script
+   63  echo "Welcome to the shell"
+   64  pwd
+   65  ls
+   66  cd task-1-prac
+   67  nano shell_intro.sh
+   68  echo "Welcome to the shell"
+   69  pwd
+   70  ls
+   71  chmod +x shell_intro.sh
+   72  ./shell_intro.sh
+   73  cd task-1-prac
+   74  clear
+   75  ls
+   76  cd task-1-prac
+   77  ls
+   78  echo "The shell is my translator to the OS"
+   79  pwd
+   80  ls
+   81  cd ..
+   82  cd ..
+   83  ls
+   84  cd Documents
+   85  cd ..
+   86  ls
+   87  cd Desktop
+   88  ls
+   89  cd task-1-prac
+   90  nano shell_intro.sh
+   91  chmod +x shell_intro.sh
+   92  ./shell_intro.sh
+   93  touch reflection.txt
+   94  history
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$

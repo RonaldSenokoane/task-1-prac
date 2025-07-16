@@ -1,0 +1,3 @@
+The purpose of of shell to interprete the low level code to a high level code and to simplify it and make it more understandable.
+Running a shell command makes it easier to navigate the git bash and write commands faster.
+Makes it easier to automate tasks as opposed to do everything manually.
