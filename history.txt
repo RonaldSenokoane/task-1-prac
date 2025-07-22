@@ -1,0 +1,71 @@
+
+8808115531087@RDS MINGW64 ~/Desktop (master)
+$ git clone https://github.com/RonaldSenokoane/task-1-prac.git
+Cloning into 'task-1-prac'...
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 11 (delta 0), reused 0 (delta 0), pack-reused 10 (from 1)
+Receiving objects: 100% (11/11), 5.79 KiB | 493.00 KiB/s, done.
+
+8808115531087@RDS MINGW64 ~/Desktop (master)
+$ code .
+
+8808115531087@RDS MINGW64 ~/Desktop (master)
+$ echo The shell is my translator to the OS
+The shell is my translator to the OS
+
+8808115531087@RDS MINGW64 ~/Desktop (master)
+$ pwd
+/c/Users/8808115531087/Desktop
+
+8808115531087@RDS MINGW64 ~/Desktop (master)
+$ ls
+'Git Bash.lnk'*   Hello-World/  'Microsoft Edge.lnk'*   Shell/   architecture/   desktop.ini   house/   task-1-prac/
+
+8808115531087@RDS MINGW64 ~/Desktop (master)
+$ cd ..
+
+8808115531087@RDS MINGW64 ~ (master)
+$ cd Desktop
+
+8808115531087@RDS MINGW64 ~/Desktop (master)
+$ cd task-1-prac
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ nano shell_intro.sh
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ chmod +x shell_intro.sh
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ ./shell_intro.sh
+Welcome to the shell
+/c/Users/8808115531087/Desktop/task-1-prac
+shell_arch_pract.md  shell_arch_task.txt  shell_intro.sh
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ touch reflection.txt
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ echo The purpose of the shell translate the code to be readable, We learnt that we can easily use readable commands, It makes everything faster and professional
+The purpose of the shell translate the code to be readable, We learnt that we can easily use readable commands, It makes everything faster and professional
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ echo The purpose of the shell translate the code to be readable, We learnt that we can easily use readable commands, It makes everything faster and professional > reflection.txt
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ touch history
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ echo reflection.txt > history
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ ^C
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ touch history
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ touch history.txt
+
+8808115531087@RDS MINGW64 ~/Desktop/task-1-prac (main)

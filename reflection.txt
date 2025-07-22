@@ -1,0 +1,1 @@
+The purpose of the shell translate the code to be readable, We learnt that we can easily use readable commands, It makes everything faster and professional
